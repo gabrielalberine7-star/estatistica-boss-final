@@ -177,4 +177,3 @@ src/
   utils/
 supabase/schema.sql
 ```
-# estatistica-boss-final
